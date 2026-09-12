@@ -1,80 +1,30 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/main/assets/header-static.png?v=1">
-  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/main/assets/header.gif?v=1" alt="Youssef — software engineer and AI product developer based in Dubai. Ideas into software. AI, web, and mobile." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/main/assets/header-v2-static.png?v=2">
+  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/main/assets/header-v2.gif?v=2" alt="Youssef. Software Engineer & AI Product Developer. Dubai, UAE. An animated mint wire sculpture on charcoal." width="100%">
 </picture>
 
-<p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="https://github.com/YoussefAmin2312?tab=repositories">All repositories ↗</a>
-</p>
-
-### A little about me
-
-I'm **Youssef**, a software engineer and AI product developer based in **Dubai**. I build across AI tooling, web, and mobile — with an interest in how useful technology and thoughtful interfaces come together.
-
-My work ranges from connecting AI coding agents to WhatsApp to building Flutter applications. I care about the details: clear interactions, maintainable code, and software that feels good to use.
-
-### Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 / AI & AUTOMATION**
-
-#### [WhatsApp Agent MCP ↗](https://github.com/YoussefAmin2312/WhatApp-Agent-control---claude-connection-)
-
-A bridge between WhatsApp and AI coding assistants. Messaging, conversation history, and allowlist controls through the Model Context Protocol.
-
-<sub>TypeScript · MCP · AI agents</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**02 / MOBILE & PRODUCT**
-
-#### [Flutter Bookstore ↗](https://github.com/YoussefAmin2312/Bookstore-Flutter-Project)
-
-A book discovery and shopping app with search, wishlists, a cart, and account sign-in, backed by Firebase.
-
-<sub>Flutter · Dart · Firebase</sub>
-
-</td>
-</tr>
-</table>
-
-### Toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-202D30?style=flat-square&logo=typescript&logoColor=A6C7B4" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-202D30?style=flat-square&logo=python&logoColor=A6C7B4" alt="Python">
-  <img src="https://img.shields.io/badge/Flutter-202D30?style=flat-square&logo=flutter&logoColor=A6C7B4" alt="Flutter">
-  <img src="https://img.shields.io/badge/.NET-202D30?style=flat-square&logo=dotnet&logoColor=A6C7B4" alt=".NET">
-  <img src="https://img.shields.io/badge/Firebase-202D30?style=flat-square&logo=firebase&logoColor=A6C7B4" alt="Firebase">
-  <img src="https://img.shields.io/badge/Supabase-202D30?style=flat-square&logo=supabase&logoColor=A6C7B4" alt="Supabase">
-</p>
-
-| Area | Technologies |
-| :--- | :--- |
-| Languages | TypeScript, JavaScript, Python, Dart, C#, C++ |
-| Applications | Flutter, Angular, .NET |
-| Cloud & data | Firebase, Supabase, Google Cloud, Vercel, SQLite |
-| Workflow & design | Git, GitHub Actions, Figma, Blender |
-
-<details>
-<summary>Beyond the application layer</summary>
 <br>
 
-I also work with **Arduino** and **Cisco** tools — extending my toolkit into hardware and networking.
+<p align="center">
+  I'm <strong>Youssef</strong>, a <strong>Software Engineer &amp; AI Product Developer</strong> based in <strong>Dubai</strong>.
+</p>
 
-</details>
+<br>
+
+### Languages, tools & technologies
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br>
 
 ---
 
 <p align="center">
-  <sub>Curiosity in the process. Care in the details.</sub><br>
-  <sub><a href="https://github.com/YoussefAmin2312?tab=repositories">Explore what I'm building ↗</a></sub>
+  <sub>ENGINEERING &nbsp; × &nbsp; INTELLIGENCE &nbsp; × &nbsp; CRAFT</sub>
 </p>

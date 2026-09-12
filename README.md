@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.png">
-  <img src="assets/header.gif" alt="Youssef — software engineer and AI product developer based in Dubai. Ideas into software. AI, web, and mobile." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/main/assets/header-static.png">
+  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/main/assets/header.gif" alt="Youssef — software engineer and AI product developer based in Dubai. Ideas into software. AI, web, and mobile." width="100%">
 </picture>
 
 <p align="center">

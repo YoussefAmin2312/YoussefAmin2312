@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  I'm <strong>Youssef</strong>, a <strong>Software Engineer &amp; AI Product Developer</strong> based in <strong>Dubai</strong>.
+  I'm <strong>Youssef</strong>, a <strong>Software Engineer &amp; AI Product Developer</strong> based in <strong>UAE</strong>.
 </p>
 
 <br>

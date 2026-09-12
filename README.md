@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/main/assets/header-v2-static.png?v=2">
-  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/main/assets/header-v2.gif?v=2" alt="Youssef. Software Engineer & AI Product Developer. Dubai, UAE. An animated mint wire sculpture on charcoal." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/41679e3bb2d2d118e4bab1a8125090a4faebc380/assets/header-v2-static.png">
+  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/41679e3bb2d2d118e4bab1a8125090a4faebc380/assets/header-v2.gif" alt="Youssef. Software Engineer & AI Product Developer. Dubai, UAE. An animated mint wire sculpture on charcoal." width="100%">
 </picture>
 
 <br>

@@ -1,10 +1,10 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/824d278cdffc7923e27b6ff45c977de6479f0527/assets/nocturne-static.png">
-  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/824d278cdffc7923e27b6ff45c977de6479f0527/assets/nocturne.gif" alt="Youssef — Software Engineer &amp; AI Product Developer. " width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/8a4b1d273ffaeb6068ecfa7a5972839f13dd15d9/assets/terminal-static.png">
+  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/8a4b1d273ffaeb6068ecfa7a5972839f13dd15d9/assets/terminal.gif" alt="Youssef — Software Engineer &amp; AI Product Developer." width="100%">
 </picture>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/824d278cdffc7923e27b6ff45c977de6479f0527/assets/toolkit.svg" alt="The toolkit — languages, tools and technologies" width="100%">
+  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/8a4b1d273ffaeb6068ecfa7a5972839f13dd15d9/assets/terminal-toolkit.svg" alt="Tech stack — languages, tools and technologies" width="100%">
 </p>
 
 <p align="center">

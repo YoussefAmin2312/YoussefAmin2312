@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/824d278cdffc7923e27b6ff45c977de6479f0527/assets/nocturne-static.png">
-  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/824d278cdffc7923e27b6ff45c977de6479f0527/assets/nocturne.gif" alt="Youssef — Software Engineer &amp; AI Product Developer. United Arab Emirates." width="100%">
+  <img src="https://raw.githubusercontent.com/YoussefAmin2312/YoussefAmin2312/824d278cdffc7923e27b6ff45c977de6479f0527/assets/nocturne.gif" alt="Youssef — Software Engineer &amp; AI Product Developer. " width="100%">
 </picture>
 
 <p align="center">
